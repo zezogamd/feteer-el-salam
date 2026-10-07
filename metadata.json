@@ -1,0 +1,6 @@
+{
+  "name": "بيتزا فطائر السلام - Pizza & Feteer El Salam",
+  "description": "الموقع الرسمي لمطعم بيتزا فطائر السلام في بهتيم شبرا الخيمة. منيو البيتزا والفطائر، العروض الخاصة، والطلب السريع عبر الهاتف وواتساب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
